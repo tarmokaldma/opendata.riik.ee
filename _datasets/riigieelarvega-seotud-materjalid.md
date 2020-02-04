@@ -10,14 +10,14 @@ category:
 category_en:
   - Economy and Finance
 resources:
-  - name: Palgapoliitika
+  - name: riigieelarve-ja-majandusulevaated
     url: 'https://www.rahandusministeerium.ee/et/eesmargidtegevused/riigieelarve-ja-majandus/riigieelarve-ja-majandusulevaated'
     format: HTML
     interactive: 'True'
 license: 'http://creativecommons.org/about/cc0'
 update_freq: ''
 date_issued: 2020/01/13
-date_modified: 2020/01/13
+date_modified: 2020/02/04
 organization: Rahandusministeerium
 maintainer_name: 
 maintainer_email: 
